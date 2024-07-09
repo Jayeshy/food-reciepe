@@ -38,6 +38,7 @@ Before you begin, ensure you have met the following requirements:
    npm install
    
 4. Create a .env file in the root of the project and add your Spoonacular API key
+   ```bash
    REACT_APP_SPOONACULAR_API_KEY=your-api-key
    
 5. Start the development server
