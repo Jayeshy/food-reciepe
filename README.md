@@ -28,5 +28,20 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository
    ```bash
    git clone https://github.com/your-username/food-recipe.git
+   
+2. Navigate to the project directory
+   ```bash
+   cd your-repo-name
+   
+3. Install dependencies
+   ```bash
+   npm install
+   
+4. Create a .env file in the root of the project and add your Spoonacular API key
+   REACT_APP_SPOONACULAR_API_KEY=your-api-key
+   
+5. Start the development server
+   ```bash
+   npm start
 
 
