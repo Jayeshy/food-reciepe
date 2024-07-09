@@ -7,7 +7,7 @@ import Reciepe from "./components/Reciepe";
 import Container from "./components/Container";
 function App() {
   const [foodData, setFoodData] = useState([]);
-  const [foodId, setFoodId] = useState("782585");
+  const [foodId, setFoodId] = useState("");
   return (
     <>
       <Nav />
